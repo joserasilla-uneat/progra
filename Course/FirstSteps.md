@@ -26,30 +26,30 @@ La estructura que se va a seguir en este curso va a respetar esos puntos. Con es
 1. Herramientas inciales:
     - Repositorios online GitHub
     - Frameworks de programación, nos centraremos en vsCode
-1. Primeros lenguajes - Markdown, Puml y HTML
+2. Primeros lenguajes - Markdown, Puml y HTML
     - Lenguaje para escribir documentos web Markdown
         - Markdown es un lenguaje muy sencillo y muy útil, con una pequeña lección explicaremos todos los tags
     - Lenguaje para visualizar estructuras usando PUML
         - Como herramienta útil para hacer esquemas de programación veremos como funciona PlantUML de manera muy sencilla.
     - Lenguaje para programar webs basado en tags/marcas HTML
         - HTML es un lenguaje orientado a programación web, con estructuras un poco más complejas que Markdown, pero sigue siendo sencillo y eso le hace ser perfecto como primer lenguaje complejo. No profundizaremos en todo pero si que daremos los pasos principales para poder hacer un documento básico.
-2. Conceptos de Programación - Variables, bucles, metodos...
+3. Conceptos de Programación - Variables, bucles, metodos...
     - Funcionamiento y tipos de variables
     - Estructuras de control if else
     - Estructuras de bucle - for, foreach, while y do while
     - Metodos y parametros
-3. Programación básica en Java
+4. Programación básica en Java
     - Variables en Java
     - Estructuras de control
     - Estructuras de bucle
     - Keywords - Static, void, public...
     - Metodos
-4. Conceptos de Programación avanzada - POO y estructuras complejas
+5. Conceptos de Programación avanzada - POO y estructuras complejas
     - Programación Orientada a Objetos
         - Clases
         - Herencia
     - Polimorfismo y recurrencia
-5. Programación Avanzada en Java
+6. Programación Avanzada en Java
     - Clases en Java
     - Herencia
     - Polimorfismo
